@@ -18,12 +18,12 @@ body {
 }
 
 main {
-	width: calc(100% - 20vw);
+	width: calc(100% - 40vw);
 
     display: flex;
 	flex-grow: 1;
 
-	margin: 5vw 10vw;
+	margin: 5vw 20vw;
 
     border-radius: 5vh;
 	background-color:  #f3f3ff;
